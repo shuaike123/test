@@ -5,7 +5,7 @@ import org.apache.commons.dbutils.QueryRunner;
 public class QueryRunnerHelper {
 	
 	private QueryRunner runner = null;
-	
+	private String s="emm";
 	public QueryRunnerHelper() {
 		DBPool dbPool = DBPool.getInstance();
 		if (dbPool.getDataSource() != null) {
