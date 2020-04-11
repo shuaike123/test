@@ -16,5 +16,6 @@
 			<attribute name="owner.project.facets" value="jst.web.jstl"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="D:/刘/新建文件夹 (2)/myeclipseworkspace/0218Practise/WebRoot/WEB-INF/lib/commons-dbutils-1.7.jar" sourcepath="/20200312_JavaWebAjax/WebRoot/WEB-INF/lib/commons-dbutils-1.7.jar"/>
 	<classpathentry kind="output" path="WebRoot/WEB-INF/classes"/>
 </classpath>
